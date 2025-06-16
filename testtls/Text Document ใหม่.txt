@@ -1,0 +1,2 @@
+wget https://raw.githubusercontent.com/Jacked-sec/desktop-tutorial/main/testtls/epo_RootCA.crt -O /etc/stunnel/epo_SyslogCert_nopassphrase.pem
+wget https://raw.githubusercontent.com/Jacked-sec/desktop-tutorial/main/testtls/epo_RootCA.crt -O /etc/stunnel/epo_RootCA.crt
